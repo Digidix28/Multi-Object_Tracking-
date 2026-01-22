@@ -1,0 +1,6 @@
+[submodule "TrackEval"]
+	path = TrackEval
+	url = https://github.com/JonathonLuiten/TrackEval.git
+[submodule "yolov4-deepsort"]
+	path = yolov4-deepsort
+	url = https://github.com/theAIGuysCode/yolov4-deepsort.git
