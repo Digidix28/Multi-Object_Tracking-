@@ -2,6 +2,16 @@
 
 This repository contains a complete multi-object tracking (MOT) workflow built around Ultralytics YOLOv8 for detection and Supervision ByteTrack for temporal association. The main pipeline is documented and runnable from the notebook `ByteTrack/notebook_restructured.ipynb` and includes tracking, export in MOT-style format, evaluation plotting, and optional visualization/crop extraction.
 
+## Some results and metrics :
+
+<p float="left">
+  <img src="assets/result_1.png" width="45%" />
+  <img src="assets/result_2.png" width="45%" />
+</p>
+
+![Tracking metrics](assets/metrics.png)
+
+
 ## Report and Notebook
 - [Read the full report (make sure to click on "More pages" at the end to see entire pdf)](Rapport_TP3.pdf)
 - [Read the Notebook here](ByteTrack/notebook_restructured.ipynb)
