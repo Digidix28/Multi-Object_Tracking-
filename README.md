@@ -4,11 +4,10 @@ This repository contains a complete multi-object tracking (MOT) workflow built a
 
 ## Some results and metrics :
 
-<img src="assets/result_1.png" width="900" />
+![Detection result 1](assets/result_1.png)
+![Detection result 2](assets/result_2.png)
 
-<img src="assets/result_2.png" width="900" />
-
-<img src="assets/metrics.png" width="900" />
+![Tracking metrics](assets/metrics.png)
 
 ## Report and Notebook
 - [Read the full report (make sure to click on "More pages" at the end to see entire pdf)](Rapport_TP3.pdf)
