@@ -1,0 +1,25 @@
+# datasets / large artifacts
+MOT17/
+MOT17_labels/
+data/
+save/
+
+# outputs
+output_DPM/
+videos/
+*.mp4
+*.avi
+*.mov
+
+# model weights
+*.pt
+*.pth
+*.onnx
+
+# archives
+*.zip
+
+# python/jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
